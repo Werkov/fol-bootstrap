@@ -471,6 +471,11 @@ a.btn {
   float: none;
   vertical-align: middle;
 }
+@media (min-width: 768px) {
+  .affix-sm {
+    position: fixed;
+  }
+}
 /************************ SCORE STATS *****************************************/
 .score-stats-wrapper {
   /*overflow: auto;*/
