@@ -1,6 +1,6 @@
 /*!
  * Bootstrap v3.2.0 (http://getbootstrap.com)
- * Copyright 2011-2014 Twitter, Inc.
+ * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
@@ -501,6 +501,9 @@ a.btn {
 .score-stats td.done {
   color: white;
 }
+.ratio-0 {
+  background-color: #7ea;
+}
 .ratio-1 {
   background-color: #4d4;
 }
@@ -508,13 +511,10 @@ a.btn {
   background-color: #4b4;
 }
 .ratio-3 {
-  background-color: #3b3;
-}
-.ratio-4 {
-  background-color: #292;
+  background-color: #392;
 }
 .ratio-5 {
-  background-color: #080;
+  background-color: #148800;
 }
 .score-stats td.skipped {
   background-color: lightgray;
